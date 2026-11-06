@@ -1,0 +1,2 @@
+# flappy-bird-maria-clara-santos
+Pilote o Felpudo em seu avião por um céu cheio de perigos! Neste jogo 2D que mistura a jogabilidade de Flappy Bird com tiro, você precisa manter o voo, desviar dos inimigos e usar sua munição com sabedoria.  Depois de enfrentar uma onda de inimigos, o Boss aparece. Acerte-o vezes suficientes para vencer o jogo, mas cuidado: encostar em qualquer inimigo ou sair dos limites da tela significa derrota.
